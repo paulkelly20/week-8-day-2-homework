@@ -35,3 +35,9 @@
 out/
 target/
 .idea_modules/
+.gitignore
+.idea/
+Homework.iml
+README.md
+pom.xml
+src/
